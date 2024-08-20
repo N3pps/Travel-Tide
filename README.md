@@ -14,11 +14,10 @@ Our main goal with this analysis is to identify different customer segments, eac
 
 ## 🔍 Methodology                                                     
 Our first task is selecting the right group of customers for analysis. To ensure the reliability of our segmentation analysis, we consider the time customers have spent interacting with the platform.
-Following guidance from the Marketing Team, our defined cohort consists of users who engaged with the platform after the New Year holiday, starting from January 4, 2023 and participated in more than seven browsing sessions during this period. This approach provides a substantial behavioural dataset, excluding recent users with limited interactions.
-We extracted raw data working on a  Jupyter Notebook hosted on Google Colab, using "SQL Alchemy" Python Library to exctract data from a PostgreSQL Database, across four key tables, generating a wide array of metrics. The data was then further processed and analyzed using several other Python Librarys. To classify customers into distinct groups we created a Decision Tree. Based on the conditions in the Decision Tree, we assigned perks that would most likely resonate with past customer behaviour.
-This is how it visually looks like:
-
+Following guidance from the Marketing Team, our defined cohort consists of users who engaged with the platform after the New Year holiday, starting from January 4, 2023 and participated in more than seven browsing sessions during this period. This approach provides a substantial behavioural dataset, excluding recent users with limited interactions. This is how it visually looks like:
 ![image](https://github.com/user-attachments/assets/c4de95a9-ed2d-4efe-b34d-6d0aa9cc1b83)
+We extracted raw data working on a  Jupyter Notebook hosted on Google Colab, using "SQL Alchemy" Python Library to exctract data from a PostgreSQL Database, across four key tables, generating a wide array of metrics. The data was then further processed and analyzed using several other Python Librarys. To classify customers into distinct groups we created a Decision Tree. Based on the conditions in the Decision Tree, we assigned perks that would most likely resonate with past customer behaviour.
+
 
 ## 💡 Key Findings                                                        
 After applying the Decision Tree on the Dataset we could identify the following User Groups:
