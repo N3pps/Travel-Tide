@@ -6,7 +6,7 @@ Customer segmentation of a Travel Agency "Travel Tide"
 [Here](https://colab.research.google.com/drive/1rmN6AVyNwf-so1Y2CaxPQPtrdfQoV8K0?usp=sharing) you can find the Jupyter Notebook used.
 
 ## 🎯 Objectives                                                          
-The Objective of Customer Segmentation TravelTide, a travel booking platform, is aiming for better customer engagement. The marketing team has crafted five potential perks to enhance the customer experience as follows:
+The Objective of performing a Customer Segmentation at TravelTide, a travel booking platform, is aiming for better customer engagement. The marketing team has crafted five potential perks to enhance the customer experience as follows:
 Free hotel meals
 Free checked bags
 No cancellation fees
