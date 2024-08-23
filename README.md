@@ -1,6 +1,8 @@
 # Travel-Tide
 Customer segmentation of a Travel Agency "Travel Tide"
 
+<img src="https://github.com/user-attachments/assets/64920e29-4fe6-4dfb-aabb-dc9659a0550d" alt="Customer segmentation" width="400"/>
+
 [Here](https://colab.research.google.com/drive/1rmN6AVyNwf-so1Y2CaxPQPtrdfQoV8K0?usp=sharing) you can find the Jupyter Notebook used.
 
 ## 🎯 Objectives                                                          
