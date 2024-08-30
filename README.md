@@ -4,6 +4,7 @@ Customer segmentation of a Travel Agency "Travel Tide"
 <img src="https://github.com/user-attachments/assets/64920e29-4fe6-4dfb-aabb-dc9659a0550d" alt="Customer segmentation" width="400"/>
 
 [Here](https://colab.research.google.com/drive/1rmN6AVyNwf-so1Y2CaxPQPtrdfQoV8K0?usp=sharing) you can find the Jupyter Notebook used.
+
 [Here](https://doc.clickup.com/9012190783/d/h/8cjp7hz-572/b8a59fd8191041f) you can find the Executive Summary.
 
 ## 🎯 Objectives                                                          
